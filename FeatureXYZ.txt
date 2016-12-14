@@ -2,4 +2,6 @@ This is new content
 
 This is new content as well.
 
-Feature master 1
+Feature B 1 to master 
+
+Feature B 2
